@@ -19,6 +19,3 @@
   ########################
   
   ->NPCVillage1: X= 448 Z= -180   (FARM/DONKEYS/COWS/SHEEP/PIGS/EMERALDS)
-  
-  
-  <b>lol</b>
