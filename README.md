@@ -12,7 +12,8 @@
   ###Outposts###
   ##############
 
-  ->DeepOceanIsland1: X= 744 Z= -1630   (OCEAN/JACK'O LANTERN/FISHING/PORT/#KRAKEN)
+  ->DeepOceanIsland1: X= 744 Z= -1630   (OCEAN/JACK'O LANTERN/FISHING/#KRAKEN)
+  ->DeepOceanIsland2: X= -576 Z= -1983    (OCEAN/TREES/FISHING/#KRAKEN)
 
   ########################
   ###Vanilla Structures###
