@@ -8,8 +8,8 @@
   
   ->MainBase: X= 62 Z= 160  
   ->TreeHouseAlpha: X= 63 Z= -382   (SWAMP/SLIMES/GIANT MUSHROOMS/COWS/SHEEP/PIGS)
-  ->SugarBoyIsland: X= -609 Z= -2500 (OCEAN/SUGAR/MORE SUGAR/MINE/TREES)
-
+  ->SugarBoyIsland: X= -609 Z= -2500  (OCEAN/SUGAR/MORE SUGAR/MINE/TREES)
+  ->LightHouseOfPro: X= 401 Z= 2358   (OCEAN/LIGHTHOUSE/MINE/FISHING/TREES)
   ##############
   ###Outposts###
   ##############
